@@ -82,5 +82,17 @@ body {
 }
 
 .descricao__texto {
+  
     color: var(--cinza-secundario);
 }
+
+.secundario__botao {}
+    display:inline-block;
+    margin-top : 1em;
+{}
+.descricao__descricao {}
+   
+padding: 2em;
+{
+
+    .dispositivos__listas{
